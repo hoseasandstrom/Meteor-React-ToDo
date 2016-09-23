@@ -1,0 +1,6 @@
+{
+  "name": "Meteorprojects",
+  "tagline": "Simple Apps built using React and Angular in Meteor",
+  "body": "All of the app projects here were created from the guides located @ meteor.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
